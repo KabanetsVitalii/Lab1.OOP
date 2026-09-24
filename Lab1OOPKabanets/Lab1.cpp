@@ -13,7 +13,7 @@ struct LinearEquation {
         second = b;
         return true;
     }
-    void Read() {dfeferfe
+    void Read() {
         double a, b;
         do {
             std::cout << "Введіть коефіцієнт A (A != 0): ";
